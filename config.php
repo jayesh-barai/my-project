@@ -7,5 +7,5 @@
     die("connection error");
  }
 
-
+print("connectio");
 ?>
